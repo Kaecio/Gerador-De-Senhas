@@ -54,6 +54,7 @@
             this.btnGerar.TabIndex = 1;
             this.btnGerar.Text = "Gerar";
             this.btnGerar.UseVisualStyleBackColor = true;
+            this.btnGerar.Click += new System.EventHandler(this.btnGerar_Click);
             // 
             // count_chars
             // 
@@ -120,7 +121,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(401, 339);
+            this.ClientSize = new System.Drawing.Size(451, 340);
             this.Controls.Add(this.checkSimbolos);
             this.Controls.Add(this.checkAlgarismo);
             this.Controls.Add(this.checkMaiuscula);

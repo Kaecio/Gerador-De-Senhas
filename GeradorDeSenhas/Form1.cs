@@ -12,9 +12,18 @@ namespace GeradorDeSenhas
 {
     public partial class Form1 : Form
     {
+        int password_num = 10;
         public Form1()
         {
             InitializeComponent();
         }
+
+        private void btnGerar_Click(object sender, EventArgs e)
+        {
+            string chars = "a b c d e f g h i j k l m n o p q r s t u v w x y z";
+
+        }
+
+        
     }
 }
