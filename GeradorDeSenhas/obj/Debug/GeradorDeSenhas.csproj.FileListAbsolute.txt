@@ -1,0 +1,10 @@
+C:\Github\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\GeradorDeSenhas.exe.config
+C:\Github\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\GeradorDeSenhas.exe
+C:\Github\GeradorDeSenhas\GeradorDeSenhas\bin\Debug\GeradorDeSenhas.pdb
+C:\Github\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.csprojAssemblyReference.cache
+C:\Github\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.Form1.resources
+C:\Github\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.Properties.Resources.resources
+C:\Github\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.csproj.GenerateResource.cache
+C:\Github\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.csproj.CoreCompileInputs.cache
+C:\Github\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.exe
+C:\Github\GeradorDeSenhas\GeradorDeSenhas\obj\Debug\GeradorDeSenhas.pdb
